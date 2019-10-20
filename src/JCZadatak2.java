@@ -42,7 +42,6 @@ public class JCZadatak2 {
                 System.out.println("Morate uneti ceo broj ");
             }
 
-
             System.out.println("Da li zelite da prekinete igru? (Q za prekid bilo sta za nastavak)");
             answer = input.next();
 
