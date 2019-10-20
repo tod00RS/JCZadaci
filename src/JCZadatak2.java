@@ -47,6 +47,7 @@ public class JCZadatak2 {
 
         } while (!answer.equalsIgnoreCase("D"));
 
+
         System.out.println("Zavrsili ste igru pritiskom na taster 'D' ");
 
         /*
