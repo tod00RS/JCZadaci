@@ -45,9 +45,15 @@ public class JCZadatak2 {
             System.out.println("Da li zelite da prekinete igru? (Q za prekid bilo sta za nastavak)");
             answer = input.next();
 
-        } while (!answer.equalsIgnoreCase("Q"));
+        } while (!answer.equalsIgnoreCase("D"));
 
-        System.out.println("Zavrsili ste igru");
+        System.out.println("Zavrsili ste igru pritiskom na taster 'D' ");
+
+        /*
+        *
+        * Pokusaj dodavanja teksta.....
+        *
+         */
 
 
     }
