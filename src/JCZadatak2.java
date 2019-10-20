@@ -47,7 +47,7 @@ public class JCZadatak2 {
 
         } while (!answer.equalsIgnoreCase("Q"));
 
-        System.out.println("Zavrsili ste igru");
+        System.out.println("Igra je zavrsena!");
 
 
     }
